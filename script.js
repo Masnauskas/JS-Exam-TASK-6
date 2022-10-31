@@ -30,7 +30,7 @@ function getUserAverageAge(array) {
   );
 }
 
-console.log(getUserAverageAge(users));
+console.log("User average age is: " + getUserAverageAge(users));
 
 //2 getUsersNames
 
